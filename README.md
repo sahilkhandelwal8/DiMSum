@@ -4,6 +4,7 @@ Summarizing EHR data using Transformers
 A Method to Automate the Discharge Summary
 
 Abstract
+
 Physicians spend approximately two hours in the electronic health
 record (EHR) for every one hour of patient care. The time required for
 recording, reviewing and summarizing information in EHRs has imposed
